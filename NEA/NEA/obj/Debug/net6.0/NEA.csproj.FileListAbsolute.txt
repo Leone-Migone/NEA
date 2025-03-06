@@ -1,0 +1,60 @@
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\NEA.exe
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\NEA.deps.json
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\NEA.runtimeconfig.json
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\NEA.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\NEA.pdb
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\Raylib-CsLo.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-arm64\native\readme.md
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.csproj.AssemblyReference.cache
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.AssemblyInfoInputs.cache
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.AssemblyInfo.cs
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.csproj.CoreCompileInputs.cache
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.csproj.CopyComplete
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\refint\NEA.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.pdb
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\NEA.genruntimeconfig.cache
+C:\Users\39351\source\repos\computing\NEA\NEA\obj\Debug\net6.0\ref\NEA.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\SharpDX.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\SharpDX.Direct3D11.dll
+C:\Users\39351\source\repos\computing\NEA\NEA\bin\Debug\net6.0\SharpDX.DXGI.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\NEA.exe
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\NEA.deps.json
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\NEA.runtimeconfig.json
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\NEA.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\NEA.pdb
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\Raylib-CsLo.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\SharpDX.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\SharpDX.Direct3D11.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\SharpDX.DXGI.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-arm64\native\readme.md
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.csproj.AssemblyReference.cache
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.AssemblyInfoInputs.cache
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.AssemblyInfo.cs
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.csproj.CoreCompileInputs.cache
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.csproj.CopyComplete
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\refint\NEA.dll
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.pdb
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\NEA.genruntimeconfig.cache
+C:\Users\39351\OneDrive - rendcomb.gloucs.sch.uk\Computing\NEA\NEA\obj\Debug\net6.0\ref\NEA.dll
